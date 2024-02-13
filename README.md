@@ -2,7 +2,7 @@
 
 <!--
 **Sevvaltaner/sevvaltaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Şevval Taner Bilkent University Computer Science
+I am Şevval Taner. I am studying at  Bilkent University. My major is computer science.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
